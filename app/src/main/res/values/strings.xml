@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Resuelve</string>
+    <string name="numero_1">Numero 1</string>
+    <string name="numero_2">Numero 2</string>
+    <string name="ingrese_num1">Ingrese un numero</string>
+    <string name="ingrese_num2">Ingrese un numero</string>
+    <string name="guardar">Guardar</string>
+    <string name="sum">+</string>
+    <string name="res">-</string>
+    <string name="no">No</string>
+    <string name="si">Si</string>
+    <string name="div">/</string>
+    <string name="multi">x</string>
+    <string name="pot">^</string>
+    <string name="resultado">Resultado</string>
+    <string name="calcular">Calcular</string>
+</resources>
